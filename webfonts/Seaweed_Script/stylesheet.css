@@ -1,0 +1,47 @@
+@import url("../heygorgeous/stylesheet.css");
+@font-face {
+	font-family: 'Seaweed Script';
+	src: url('SeaweedScript-Regular.ttf') format('truetype');
+}
+.container .content h3 {
+	font-family: "Comic Sans MS", cursive;
+	font-weight: bold;
+	text-align: center;
+}
+.container .sidebar1 h1 {
+	font-family: heygorgeous;
+	font-size: 18px;
+	text-align: center;
+}
+
+.container .content h1 {
+	font-family: heygorgeous;
+	font-size: 120%;
+	text-align: center;
+	padding-top: 25px;
+}
+.container .sidebar2 h4 {
+	font-family: heygorgeous;
+	font-size: 110%;
+	text-align: center;
+}
+
+.container .content h2 {
+	font-family: heygorgeous;
+	text-align: center;
+}
+.container .sidebar1 p {
+	font-style: italic;
+}
+
+.container .sidebar1 p em {
+	font-size: 14px;
+	font-family: "Comic Sans MS", cursive;
+
+}
+#copyright {
+	font-family: "Pokemon GB";
+	font-style: italic;
+	text-align: center;
+	font-size: 10px;
+}

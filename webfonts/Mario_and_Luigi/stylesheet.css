@@ -1,0 +1,5 @@
+@import url("../Pokemon_GB/stylesheet.css");
+@font-face {
+	font-family: 'Mario and Luigi';
+	src: url('Mario and Luigi.ttf') format('truetype');
+}
